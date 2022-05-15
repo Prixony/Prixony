@@ -21,7 +21,7 @@ Additional projects can be found on my GitHub Project Page so give it a look.
 ## :bar_chart: Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prixony)](https://github.com/anuraghazra/github-readme-stats)
 #### Languagues: (since 19/12/2021)
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@68e637f6-6804-4ea5-b398-0c649d4f50b6/0a84bbd6-350c-4582-b6c4-79209f1c741f.png" /></a>
+<figure><embed src="https://wakatime.com/share/@64e6c37d-7337-477f-b193-9a32e0411f5a/4e89ffa7-9140-41e2-ac1b-d393cdfe583f.svg"></embed></figure>
 
 -----
 
